@@ -1,0 +1,9 @@
+C:\Users\Victor\source\repos\RequestPermission\RequestPermission.Common\bin\Debug\netcoreapp3.1\RequestPermission.Common.deps.json
+C:\Users\Victor\source\repos\RequestPermission\RequestPermission.Common\bin\Debug\netcoreapp3.1\RequestPermission.Common.dll
+C:\Users\Victor\source\repos\RequestPermission\RequestPermission.Common\bin\Debug\netcoreapp3.1\RequestPermission.Common.pdb
+C:\Users\Victor\source\repos\RequestPermission\RequestPermission.Common\obj\Debug\netcoreapp3.1\RequestPermission.Common.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\RequestPermission\RequestPermission.Common\obj\Debug\netcoreapp3.1\RequestPermission.Common.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\RequestPermission\RequestPermission.Common\obj\Debug\netcoreapp3.1\RequestPermission.Common.AssemblyInfo.cs
+C:\Users\Victor\source\repos\RequestPermission\RequestPermission.Common\obj\Debug\netcoreapp3.1\RequestPermission.Common.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\RequestPermission\RequestPermission.Common\obj\Debug\netcoreapp3.1\RequestPermission.Common.dll
+C:\Users\Victor\source\repos\RequestPermission\RequestPermission.Common\obj\Debug\netcoreapp3.1\RequestPermission.Common.pdb
